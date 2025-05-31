@@ -9,7 +9,6 @@
 //    Author URL: www.themetrading.com
 
 //=====================================================================================
- 
 //  01.   Preloader For Hide loader
 //  02.   Scroll Top
 //  03.   Navbar scrolling navbar Fixed
